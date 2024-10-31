@@ -1,10 +1,8 @@
 package courtnet.common.log.model;
 
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import lombok.Getter;
 
-@NoArgsConstructor
-@RequiredArgsConstructor
+@Getter
 public class LoggingForm {
 
     private String apiUrl;
