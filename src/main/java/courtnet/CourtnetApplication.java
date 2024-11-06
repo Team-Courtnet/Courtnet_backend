@@ -10,4 +10,5 @@ public class CourtnetApplication {
         SpringApplication.run(CourtnetApplication.class, args);
     }
 
+
 }
